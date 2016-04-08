@@ -1,0 +1,28 @@
+name: the people project
+favicon: null
+layout_spectrum: 0.6243073712103069
+typography_spectrum: 0.12230100831948221
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.22623081877827644
+  lightness: 0.9029796707909554
+  saturation: 0.5997968267183751
+  rhythmicContrast: 0.5068432071711868
+purpose: []
