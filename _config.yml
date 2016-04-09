@@ -1,6 +1,6 @@
 name: the people project
 favicon: null
-layout_spectrum: 0.05002
+layout_spectrum: 0.91313
 typography_spectrum: 0.12230100831948221
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#ae2c1e'
     - '#ba9e20'
     - '#000d21'
-  brandStrength: 0.22623081877827644
+  brandStrength: 0.1875
   lightness: 0.9029796707909554
   saturation: 0.1875
   rhythmicContrast: 0.5068432071711868
